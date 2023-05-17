@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"type":"text","text":"fgjdkgf","id":"9346a3d86fb117c5","x":-200,"y":-20,"width":250,"height":60,"color":"2"},
+		{"type":"file","file":"DOM.png","id":"b914db76dc275efa","x":-275,"y":-245,"width":400,"height":225}
+	],
+	"edges":[]
+}
