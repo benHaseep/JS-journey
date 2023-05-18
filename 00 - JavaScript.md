@@ -5,3 +5,5 @@
 [[the diffrence between document, console and window]]
 [[how to find errors]]
 [[datatypes in JS]]
+[[concatenation in JS]]
+
