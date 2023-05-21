@@ -13,6 +13,10 @@
 [[Math Object]]
 [[Convert number to string]]
 [[String]]
+[[slice-substring-substr]]
+[[String search]]
+[[Array]]
+[[Nested array]]
 
 
 
