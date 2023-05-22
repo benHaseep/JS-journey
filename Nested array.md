@@ -10,3 +10,4 @@ console.log(names[3][2]); // 3
 console.log(names[3][3][2]); //6
 // From index [3] , go to index [3] and display index [2]
 ```
+

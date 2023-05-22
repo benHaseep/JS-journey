@@ -13,3 +13,9 @@ console.log(names[names.length - 1]); // Moaz
 ```
 
 [[Nested array]]
+[[Modify the array values]]
+[[Add & remove elements from the array]]
+[[Splice & slice array]]
+[[Search in array]]
+[[Sort & reverse array]]
+[[Concat & join array]]
