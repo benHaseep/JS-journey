@@ -24,3 +24,6 @@
 [[Sort & reverse array]]
 [[Concat & join array]]
 
+-----
+[[Comparison in JS]]
+[[Advanced comparison]]
