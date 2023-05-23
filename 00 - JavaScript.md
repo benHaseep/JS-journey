@@ -27,3 +27,7 @@
 -----
 [[Comparison in JS]]
 [[Advanced comparison]]
+[[Conditional statements in JS]]
+[[if condition 2]]
+[[if condition 3]]
+[[Switch]]
