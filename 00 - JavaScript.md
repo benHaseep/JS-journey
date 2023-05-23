@@ -6,15 +6,21 @@
 [[how to find errors]]
 [[datatypes in JS]]
 [[concatenation in JS]]
+
+-----
 [[Arithmetic in JS]]
 [[Convert strings to numbers]]
 [[4 Methods to convert strings to numbers]]
 [[Number Object]]
 [[Math Object]]
+
+-----
 [[Convert number to string]]
 [[String]]
 [[slice-substring-substr]]
 [[String search]]
+
+-----
 [[Array]]
 [[Nested array]]
 [[Modify the array values]]
@@ -31,3 +37,13 @@
 [[if condition 2]]
 [[if condition 3]]
 [[Switch]]
+
+----
+[[for loop]]
+[[for loop 2]]
+[[Nested loop]]
+[[continue]]
+[[break]]
+[[while loop & dowhile loop]]
+
+-----
