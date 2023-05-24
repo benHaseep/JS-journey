@@ -47,3 +47,15 @@
 [[while loop & dowhile loop]]
 
 -----
+[[Function]]
+[[Function return]]
+[[Hoisting in variables]]
+[[Hoisting in functions]]
+[[Scope & self invoked]]
+[[Microsoft quiz]]
+[[Argument default values]]
+[[Arrow function]]
+
+
+
+
