@@ -63,7 +63,7 @@
 [[this keyword]]
 [[Strict mode in JS]]
 [[Object create]]
-
+[[Object assign]]
 
 
 
