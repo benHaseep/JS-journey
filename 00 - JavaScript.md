@@ -56,6 +56,14 @@
 [[Argument default values]]
 [[Arrow function]]
 
+----
+[[Object in JS]]
+[[Nested object]]
+[[Create object]]
+[[this keyword]]
+[[Strict mode in JS]]
+[[Object create]]
+
 
 
 
