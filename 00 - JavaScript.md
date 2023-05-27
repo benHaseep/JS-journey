@@ -1,4 +1,5 @@
 
+### Introduction
 [[where do you write JS]]
 [[Linking JS wiht HTML document notes]]
 [[the first js code]]
@@ -8,6 +9,7 @@
 [[concatenation in JS]]
 
 -----
+### Numbers
 [[Arithmetic in JS]]
 [[Convert strings to numbers]]
 [[4 Methods to convert strings to numbers]]
@@ -15,12 +17,14 @@
 [[Math Object]]
 
 -----
+### String
 [[Convert number to string]]
 [[String]]
 [[slice-substring-substr]]
 [[String search]]
 
 -----
+### Array
 [[Array]]
 [[Nested array]]
 [[Modify the array values]]
@@ -31,6 +35,7 @@
 [[Concat & join array]]
 
 -----
+### Condition
 [[Comparison in JS]]
 [[Advanced comparison]]
 [[Conditional statements in JS]]
@@ -39,6 +44,7 @@
 [[Switch]]
 
 ----
+### Loops
 [[for loop]]
 [[for loop 2]]
 [[Nested loop]]
@@ -47,6 +53,7 @@
 [[while loop & dowhile loop]]
 
 -----
+### Functions
 [[Function]]
 [[Function return]]
 [[Hoisting in variables]]
@@ -57,6 +64,7 @@
 [[Arrow function]]
 
 ----
+### Objects
 [[Object in JS]]
 [[Nested object]]
 [[Create object]]
@@ -65,6 +73,27 @@
 [[Object create]]
 [[Object assign]]
 
+------
+### DOM
+>Document Object Model
+
+[[Select Elements by JS]]
+[[attributes]]
+[[inner & outer]]
+[[Sipling & parent]]
+[[CSS Style by JS]]
+[[Create elements by JS]]
 
 
+-----
+### BOM
 
+
+-----
+### GRUDS
+
+-----
+### Projects
+
+-----
+### Problem Solving
