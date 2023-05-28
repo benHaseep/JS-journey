@@ -83,10 +83,19 @@
 [[Sipling & parent]]
 [[CSS Style by JS]]
 [[Create elements by JS]]
-
+[[Cards project]]
+[[Events]]
+[[Events in JS]]
+[[USD to EGP project]]
+[[After - Before - Append]]
+[[add - remove - toggle class]]
+[[Toggle navbar with JS]]
+[[Auto event]]
 
 -----
 ### BOM
+> Browser Object Model
+
 
 
 -----
