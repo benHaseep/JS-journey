@@ -96,10 +96,18 @@
 ### BOM
 > Browser Object Model
 
-
+[[BOM - Intro]]
+[[Control in scroll]]
+[[scroll project]]
+[[Screen Object]]
+[[Location Object]]
+[[setTimeOut & setInterval]]
+[[local storage]]
+[[Session storage]]
+[[Project]]
 
 -----
-### GRUDS
+### CRUDS
 
 -----
 ### Projects
