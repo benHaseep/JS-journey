@@ -29,4 +29,4 @@ document.write("hello from js")
 
 
 ### notes
-[[Linking JS wiht HTML document notes]]
+[[Linking JS with HTML document notes]]
